@@ -64,3 +64,11 @@ Note: The model is intended as a baseline learning model. More advanced classifi
 - Visualized survival patterns across demographics and classes
 - Created filters and drill-down views for deeper exploration
 - Designed user-friendly visual storytelling dashboards
+
+## Key Results & Insights
+
+- Female passengers had significantly higher survival rates than males
+- First-class passengers were more likely to survive than third-class passengers
+- Higher fare values were positively correlated with survival probability
+- Passengers traveling with small families showed better survival outcomes
+- The Logistic Regression model achieved approximately 83% accuracy in predicting survival
